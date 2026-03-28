@@ -2,40 +2,33 @@
 ## 2026-03-28
 **news:**
 
-On Friday, the US and Israel bombed nuclear targets and steel facilities in Iran, and President Donald Trump pushed back a deadline for Iran to agree to reopen the Strait of Hormuz or face strikes on its power plants. 
+On Friday, the US and Israel bombed nuclear targets and steel facilities in Iran, while President Donald Trump extended the deadline for Iran to agree to reopen the Strait of Hormuz or face strikes on its power plants.
 
 “Trump had jawboned both the oil and bond markets into staying calm, waiting for the conflict to end,” said Steve Chiavarone, deputy CIO of equities at Federated Hermes. “The market isn’t responding to that today.”
 
 **why:**
 
-“A couple of weeks ago the market would have popped on that headline, but there was no reaction today,"  “No one knows the next steps, and there’s an inherent distrust regarding the statements made by both the administration and the Iranians.”
+“A couple of weeks ago the market would have popped on that headline, but there was no reaction today,” said one analyst. “No one knows the next steps, and there’s an inherent distrust regarding the statements made by both the administration and the Iranians.”
 
-The drop in government bonds and gold alongside equities underscored the fragility of old protection mechanism in today’s world, where inflation fear persists, fiscal stress mounts, and hot trades are vulnerable to retail sentiment shift, 
+The drop in government bonds and gold alongside equities underscores the fragility of traditional protection mechanisms in today’s world, where inflation fears persist, fiscal stress mounts, and hot trades remain vulnerable to shifts in retail sentiment.
 
 **market impact:**
 
-Efforts to end the fight and restart the flow of Middle East oil produced only further escalation. 
+Efforts to end the fighting and restart the flow of Middle East oil produced only further escalation.
 
-The Nasdaq 100 fell 1.9% on Friday alone and sank into correction
+- The Nasdaq 100 fell 1.9% on Friday alone and sank into a correction.
+- The S&P 500 slipped for a fifth week, marking its longest losing streak since 2022.
+- Bonds declined, pushing the benchmark 30-year yield toward 5%.
+- Bitcoin is trading at about half its pre-war peak.
+- Consumer discretionary shares fell 3%, the worst drop in five months.
+- Financial stocks, which had held up for most of the last two weeks, dropped 2.5%.
+- The Cboe Volatility Index surpassed 30.
+- At least three of the four asset classes at the core of a diversified portfolio have fallen together for four straight weeks.
 
-the S&P 500 slipped for a fifth week, capping its longest losing streak since 2022;
+For the fifth consecutive weekend, investors offloaded risk.
 
-bonds fell, pushing the benchmark 30-year yield towards 5%; 
-
-Bitcoin is at about half its pre-war peak.
-
-consumer-discretionary shares decreased to 3%, the worst drop in five months. 
-
-Financial stocks, which had held up for most of the last two weeks, dropped 2.5%,
-
-the Cboe Volatility Index surpassed 30
-
-At least three of the four asset classes at the core of a diversified portfolio have fallen in unison for four straight weeks
-
-For a fifth time, investors offloaded risk heading into the weekend.
-
-Amid the dearth of havens, investors are rushing to cash even if that means missed opportunities should markets rebound.
+Amid the lack of reliable havens, investors are rushing to cash even if that means missing opportunities should markets rebound.
 
 **my trade idea:**
 
-do not trust the traditional havens blindly, try to focus on more aspects(inflation fear, people's trust on administration, fiscal stress  )
+Do not trust traditional havens blindly. Focus on multiple risk factors: inflation fears, confidence in the administration, and fiscal stress.
