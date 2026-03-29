@@ -32,3 +32,31 @@ Amid the lack of reliable havens, investors are rushing to cash even if that mea
 **my trade idea:**
 
 Do not trust traditional havens blindly. Focus on multiple risk factors: inflation fears, confidence in the administration, and fiscal stress.
+
+## 2026-03-29
+**news:**
+- Opportunistic buyers emerge in the gold market after the biggest selloff in years
+- some questioning the precious metal’s safe-haven credentials as the Iran war threatens to upend the global economy.
+- heavily indebted countries like Japan, France and the US emerged from the pandemic with little apparent appetite for fiscal discipline. The only path to solvency then, is inflation and a weakening currency — a trend that precious metals should profit from.
+- the dollar has emerged from the conflict as the ultimate safe haven
+
+**why:**
+- The meltdown has come as a broader selloff across stocks, bonds and currencies prompted investors to sell bullion to cover losses elsewhere.
+- Turkey has also been offloading its holdings to support its currency, and there are worries about other central banks might follow suit
+- (for the Friday increase), the underlying drivers of swollen government debts and a fractured geopolitical landscape are still in place.
+- Inflation risks, fiscal pressures, and bond credibility are all still structural tailwinds for gold
+- the 150% rally was mainly driven by central banks, given the freezing of Russia’s foreign exchange reserves, which highlighted the danger of having all their assets in the dollar basket. Hedge funds soon piled in, followed by a wave of retail buyers.
+- that have been accumulating bullion are energy importers, so a steeper oil and gas bill means fewer dollars retained to be recycled into gold.
+
+**market impact:**
+
+- Gold prices have fallen by 15% this month
+- by Friday investors stepped back in, driving prices about 3% higher
+- The correction is a “buying opportunity” once tensions in the Middle East subside
+- Gold’s nearly 150% rally since the beginning of 2023
+- Bullion ETF buyers tend to be particularly sensitive to interest-rate changes.
+
+
+**my trade ideas:**
+
+
