@@ -59,4 +59,4 @@ Do not trust traditional havens blindly. Focus on multiple risk factors: inflati
 
 **my trade ideas:**
 
-
+Billion, as a traditional haven asset, its price is able to fall during volatile period due to several reasons. We should emphasize on the price of stocks, bond and currencies as retailers. Also, the central banks' movement worth noticing, as bullion is sold to maintain the exchange rate of local currency.
